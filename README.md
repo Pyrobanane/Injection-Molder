@@ -4,6 +4,13 @@ Hey fellow Makers!
 
 This is my open source DIY Injection Molding Machine (made out of Old Ender 3's)
 
+
+## Injection Results
+
+![Image of a Shopping Cart Coin.](images/ShoppingCartCoin.jpeg)
+
+
+
 ## Bill of Materials (Incomplete)
 
 ### Pneumatics
